@@ -49,6 +49,16 @@
       "date": "Sept 4, 2022",
       "time": "15:00",
       "organizer": "Dalton Dayton"
+    },
+    {
+      "id": "7d278d31-ebf9-433e-b308-8a2324f77b72",
+      "category": "",
+      "title": "Community Potluck",
+      "description": "Bring a dish to share.",
+      "location": "Earth",
+      "date": "May 20, 2024",
+      "time": "13:00",
+      "organizer": "Dalton Dayton"
     }
   ]
 }
